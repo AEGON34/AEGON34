@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm MD Rejwan</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AEGON34/AEGN34/main/github-banner.png" alt="GitHub Banner" />
+</p><h1 align="center">Hi 👋, I'm MD Rejwan</h1>
 <h3 align="center">Web Dev Learner | Automation Enthusiast | Competitive Programmer</h3>
 <h2 class="heading-element" dir="auto">🚀 About Me</h2>
 <p dir="auto">Motivated Computer Science student at United International University, passionate about building impactful web applications.Always eager to learn new technologies. I enjoy solving real-world problems, collaborating in teams, and contributing to open-source projects.</p>
