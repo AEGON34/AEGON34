@@ -3,6 +3,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm MD Rejwan</h1>
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=70&lines=MD+Rejwan;Full+Stack+Developer" alt="Typing SVG" /></a>
+</div>
 <h3 align="center">Web Dev Learner | Automation Enthusiast | Competitive Programmer</h3>
 <h2 class="heading-element" dir="auto">🚀 About Me</h2>
 <p dir="auto">Motivated Computer Science student at United International University, passionate about building impactful web applications.Always eager to learn new technologies. I enjoy solving real-world problems, collaborating in teams, and contributing to open-source projects.</p>
